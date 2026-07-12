@@ -1,1 +1,1 @@
-FROM jlesage/firefox-esr:v26.05.1
+FROM jlesage/firefox-esr
